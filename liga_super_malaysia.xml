@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData basePack="http://example.com/basepackurl.xml" name="Liga Super Malaysia 2025" desc="Custom Data Pack featuring Liga Super Malaysia teams and players.">
+
+  <!-- Player Data -->
+  <PlayerData baseImageUrl="http://example.com/liga_super_malaysia/players/">
+    <P id="1001" f="Safawi" s="Rasid" i="safawi_rasid.jpg" />
+    <P id="1002" f="Brendan" s="Gan" i="brendan_gan.jpg" />
+    <P id="1003" f="Baddrol" s="Bakhtiar" i="baddrol_bakhtiar.jpg" />
+    <P id="1004" f="Matthew" s="Davies" i="matthew_davies.jpg" />
+    <P id="1005" f="Nazmi" s="Faiz" i="nazmi_faiz.jpg" />
+    <!-- Add more players as needed -->
+  </PlayerData>
+
+  <!-- Club Data -->
+  <ClubData baseImageUrl="http://example.com/liga_super_malaysia/clubs/">
+    <C id="2001" n="Johor Darul Ta'zim" i="jdt_logo.jpg" />
+    <C id="2002" n="Kedah Darul Aman" i="kedah_logo.jpg" />
+    <C id="2003" n="Selangor FC" i="selangor_logo.jpg" />
+    <C id="2004" n="Terengganu FC" i="terengganu_logo.jpg" />
+    <C id="2005" n="Melaka United" i="melaka_logo.jpg" />
+    <!-- Add more clubs as needed -->
+  </ClubData>
+
+</PackData>
